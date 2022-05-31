@@ -1,3 +1,5 @@
+http://157.175.197.89/buildStatus/icon?job=03_challenge
+
 # 03_05 Challenge Connect Jenkins to GitHub
 
 You're on a team developing an algorithm that calculates the value of pi.
@@ -18,4 +20,4 @@ They also want to display the status of that most recent test directly in the re
 - Review the contents of the report for more information.
 
 _*This challenge should take about 15 to 20 minutes to complete.*_
-http://157.175.197.89/buildStatus/icon?job=03_challenge
+
