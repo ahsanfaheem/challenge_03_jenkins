@@ -1,4 +1,4 @@
-http://157.175.197.89/buildStatus/icon?job=03_challenge
+[![Build Status](http://157.175.197.89/job/03_challenge/badge/icon)](http://157.175.197.89/job/03_challenge/)
 
 # 03_05 Challenge Connect Jenkins to GitHub
 
